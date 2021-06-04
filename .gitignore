@@ -90,3 +90,6 @@ out/
 
 # Yarn
 yarn.lock
+
+# Wireframe
+wireframe.bmpr
